@@ -1,0 +1,44 @@
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.BandName.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.Dealer.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.InventoryForm.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.MainMenu.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.Credits.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.MainScreen.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.Map.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.MarketScreen.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.NewPlayer.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.Properties.Resources.resources
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.csproj.GenerateResource.cache
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.csproj.CoreCompileInputs.cache
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.exe
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.pdb
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.exe.config
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.exe.manifest
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.application
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.exe
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.pdb
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.csprojAssemblyReference.cache
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.exe.manifest
+C:\Users\MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.application
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.exe.config
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.exe.manifest
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.application
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.exe
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\bin\Debug\Psychedelic Dungeons.pdb
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.csprojAssemblyReference.cache
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.BandName.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.Dealer.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.InventoryForm.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.MainMenu.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.Credits.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.MainScreen.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.Map.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.MarketScreen.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.NewPlayer.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic_Dungeons.Properties.Resources.resources
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.csproj.GenerateResource.cache
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.csproj.CoreCompileInputs.cache
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.exe.manifest
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.application
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.exe
+E:\Batan Gemi\Documents of MuratPC\source\repos\Psychedelic Dungeons\Psychedelic Dungeons\obj\Debug\Psychedelic Dungeons.pdb
